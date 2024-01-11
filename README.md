@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JuanGM07, my name in real life is Juan González. I am spanish but i also talk english. I am studying mechanical engineering but i am so interested in programming
-- 👀 I’m interested in big data and AI
-- 🌱 I’m currently learning phyton, sql and git
-- 💞️ I’m looking to collaborate on open source projects or small particular projects to improve my coding habilities
-- 📫 Gmail:juanglezm3@gmail.com // Twitter: @TranslatorData
+- 👋 Hi, I’m Juan González. I am spanish but I also talk english. I am studying mechanical engineering but i am so interested in programming, specially in machine learning and DevOps.
+- 👀 I’m interested in big data and AI.
+- 🌱 I’m currently learning SQL, git, and AWS.
+- 💞️ I’m looking to collaborate on open source projects or small particular projects to improve my coding habilities.
+- 📫 Gmail:juanglezm3@gmail.com // Twitter: @TranslatorData.
 
 <!---
 JuanGM07/JuanGM07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
